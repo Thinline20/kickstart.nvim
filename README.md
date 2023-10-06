@@ -40,7 +40,7 @@ Clone kickstart.nvim:
 
 ```sh
 # on Linux and Mac
-git clone https://github.com/thinline29/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/thinline20/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 
